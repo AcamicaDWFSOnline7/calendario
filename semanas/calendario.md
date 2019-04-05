@@ -2,7 +2,7 @@
   <img style="width: 3em" src="/assets/acamica.jpg">
 </div>
 
-# Acámica DWFS Wiki <span style="font-weight: normal; font-size: 0.8em; color: grey;">Sede Centro</span>
+# Acámica DWFS Wiki <span style="font-weight: normal; font-size: 0.8em; color: grey;">Onine 7</span>
 
 ## 📅 Calendario 
 
