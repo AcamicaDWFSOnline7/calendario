@@ -23,8 +23,8 @@ Y si ya practicaste con las actividades de la plataforma y querés seguir ponié
 
 ### Proyecto 1 - CV Online
 
-* [**Semana 1**](semana-01.md) 📆 
-* [**Semana 2**](semana-02.md) 📆 
+* [**Semana 2**](semana-01.md) 📆 
+* [**Semana 3**](semana-02.md) 📆 
 
 
 [Home](/readme.md) - [Proyectos y Ejercicios](/proyectos-y-ejercicios.md)
