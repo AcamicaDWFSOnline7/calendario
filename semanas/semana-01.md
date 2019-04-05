@@ -1,6 +1,6 @@
 <img src="/assets/acamica.jpg">
 
-# Acámica DWFS Wiki | Sede Centro
+# Acámica DWFS Wiki | Online 7
 
 ## 📅 Calendario | Semana 1
 
