@@ -1,7 +1,6 @@
 <img src="/assets/acamica.jpg">
 
-# Acámica DWFS Wiki | Sede Centro
-
+# Acámica DWFS Wiki | Onlnw 7
 ## 📅 Calendario | Semana 2
 
 <!-- ### Martes 20 de Marzo
