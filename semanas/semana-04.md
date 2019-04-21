@@ -24,7 +24,7 @@ Incluímos articulos, documentación de la fundación modzilla, así como materi
 
 **Libros**
 
-* 📚&nbsp;[**Javascript Avanzado en español  | Traducción de la MDN de modzilla l**](libros/javascript-avanzado-en-espanol.pdf)&nbsp;
+* 📚&nbsp;[**Javascript Avanzado en español  | Traducción de la MDN de modzilla l**](../libros/javascript-avanzado-en-espanol.pdf)&nbsp;
 
 **Artículos** 
 
