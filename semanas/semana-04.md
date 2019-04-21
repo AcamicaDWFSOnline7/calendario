@@ -28,7 +28,7 @@ Incluímos articulos, documentación de la fundación modzilla, así como materi
 
 **Artículos** 
 
-* 📄&nbsp;[**Codeburst | JavaScript Functions — Understanding The Basics**](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)&nbsp;⚠️Explicación detallada sobre el uso de funciones (traducir si se complica su lectura).
+* 📄&nbsp;[**Javascript Avanzado en español  | Traducción de la MDN de modzilla l**](libros/javascript-avanzado-en-espanol.pdf)&nbsp;⚠️Explicación detallada sobre el uso de funciones (traducir si se complica su lectura).
 
 **Videos**
 
