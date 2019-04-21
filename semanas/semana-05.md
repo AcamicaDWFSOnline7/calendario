@@ -13,15 +13,14 @@
 
 ### 🕵️ Bibliografía recomendada
 
-A los temas propuestos por la plataforma y los vistos en clase, agregamos algunos contenidos complementarios **Funciones y condiciionales**, algunso articulos están en inglés, pero proveen muy buena info. De hacerse muy dificil la lectura, traduzcan la página con el navegador.
+A los temas propuestos por la plataforma y los vistos en clase, agregamos algunos contenidos complementarios **Variables y Funciones**, algunso articulos están en inglés, pero proveen muy buena info. De hacerse muy dificil la lectura, traduzcan la página con el navegador.
 
 Incluímos articulos, documentación de la fundación modzilla, así como material en general que creemos puede serles de utilidad.
 
 **Documentación técnica**
 
-* 📄&nbsp;[**W3C Standards | Functions**](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Funciones)&nbsp;Candidate Recommendation de W3C sobre unidades y valores.
-* 📄&nbsp;[**W3C Standards | Distance Units: the `<length>` type**](https://www.w3.org/TR/css-values/#lengths)&nbsp;⚠️Párrafo sobre unidades de medida de distancia.
-* 📄&nbsp;[**MDN | CSS - `<length>` (unidades de distancia)**](https://developer.mozilla.org/es/docs/Web/CSS/length)⚠️&nbsp;Documentación en español de Mozilla MDN.
+* 📄&nbsp;[**MDN Web docks | Functions**](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Funciones)&nbsp;Declaración de una función, expresiones, llamado y ámbito de las funciones. Documentación en español de Mozilla MDN.
+* 📄&nbsp;[**W3Schools | Javascript - Funciones**](https://www.w3schools.com/js/js_functions.asp)⚠️&nbsp; Tutorial gratuito.
 
 **Libros**
 
@@ -29,24 +28,19 @@ Incluímos articulos, documentación de la fundación modzilla, así como materi
 
 **Artículos** 
 
-* 📰&nbsp;[**Librosweb.es | Introducción a CSS | Unidades de medida**](http://librosweb.es/libro/css/capitulo_3/unidades_de_medida.html)⚠️&nbsp;Contiene una buena descripción del uso de unidades relativas y absolutas.
+* 📄&nbsp;[**Codeburst | JavaScript Functions — Understanding The Basics**](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)&nbsp;⚠️Explicación detallada sobre el uso de funciones (traducir si se complica su lectura).
 
 **Videos**
 
-* 📺&nbsp;[**Las Unidades de Medida en CSS**](https://www.youtube.com/watch?v=55aWwVGEae4")</a>⚠️&nbsp;Contiene una buena ejemplificación sobre el uso de `em` y `rem`.
-* 📺&nbsp;[**¿Cómo funcionan vh & vw en CSS?. Unidades relativas al viewport.**](https://www.youtube.com/watch?v=D6gQJB0D2g8")&nbsp;Explica el uso de estas nuevas unidades en CSS3 con ejemplos sencillos.
+* 📺&nbsp;[**Pasar argumentos a funciones.**](https://www.youtube.com/watch?v=I5sKiMMSAuk)</a>⚠️&nbsp;Contiene una buena ejemplificación del uso de parametros, Realizado por Jesús Conde.
+* 📺&nbsp;[**Scope de Javascript (ámbito de las variables)**](https://www.youtube.com/watch?v=IaPnElNbnQg)&nbsp;Explica el uso las variables locales y globales. Realizado por FalconMaasters.
 
 <!--
 #### 🏋 Ejercicios
 
 *  -->
 
----
-
-### 🤓 Soft Skills
-
-* [**Why is CSS so hard for programmers?**](https://medium.com/@Cryptacular/why-is-css-so-hard-for-programmers-a10d7e282620) ⚠️
-
+* 📺&nbsp;[**Ejercicios sobre Funciones.**](https://aprendemosjavascript.blogspot.com/2016/02/ejercicios-sobre-funciones.html)
 ----
 
 [Home](/readme.md) - [Calendario](/semanas/calendario.md) - [Proyectos y Ejercicios](/proyectos-y-ejercicios.md)
