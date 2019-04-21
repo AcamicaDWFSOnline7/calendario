@@ -35,14 +35,9 @@ Incluímos articulos, documentación de la fundación modzilla, así como materi
 * 📺&nbsp;[**Pasar argumentos a funciones.**](https://www.youtube.com/watch?v=I5sKiMMSAuk)</a>⚠️&nbsp;Contiene una buena ejemplificación del uso de parametros, Realizado por Jesús Conde.
 * 📺&nbsp;[**Scope de Javascript (ámbito de las variables)**](https://www.youtube.com/watch?v=IaPnElNbnQg)&nbsp;Explica el uso las variables locales y globales. Realizado por FalconMaasters.
 
-<!--
-#### 🏋 Ejercicios
+# 🏋 Ejercicios
 *&nbsp;[**Ejercicios sobre Funciones.**](https://aprendemosjavascript.blogspot.com/2016/02/ejercicios-sobre-funciones.html)
-----
-*  -->
 
 ---
-
-
 
 [Home](/readme.md) - [Calendario](/semanas/calendario.md) - [Proyectos y Ejercicios](/proyectos-y-ejercicios.md)
