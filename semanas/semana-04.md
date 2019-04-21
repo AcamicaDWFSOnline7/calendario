@@ -13,7 +13,7 @@
 
 ### 🕵️ Bibliografía recomendada
 
-A los temas propuestos por la plataforma y los vistos en clase, agregamos algunos contenidos complementarios **Variables y Funciones**, algunso articulos están en inglés, pero proveen muy buena info. De hacerse muy dificil la lectura, traduzcan la página con el navegador.
+A los temas propuestos por la plataforma y los vistos en clase, agregamos algunos contenidos complementarios **Variables y Funciones**, algunos artículos están en inglés, pero proveen muy buena info. De hacerse muy dificil la lectura, traduzcan la página con el navegador.
 
 Incluímos articulos, documentación de la fundación modzilla, así como material en general que creemos puede serles de utilidad.
 
