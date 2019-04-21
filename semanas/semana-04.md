@@ -37,10 +37,12 @@ Incluímos articulos, documentación de la fundación modzilla, así como materi
 
 <!--
 #### 🏋 Ejercicios
-
+*&nbsp;[**Ejercicios sobre Funciones.**](https://aprendemosjavascript.blogspot.com/2016/02/ejercicios-sobre-funciones.html)
+----
 *  -->
 
-* 📺&nbsp;[**Ejercicios sobre Funciones.**](https://aprendemosjavascript.blogspot.com/2016/02/ejercicios-sobre-funciones.html)
-----
+---
+
+
 
 [Home](/readme.md) - [Calendario](/semanas/calendario.md) - [Proyectos y Ejercicios](/proyectos-y-ejercicios.md)
