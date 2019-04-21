@@ -24,11 +24,11 @@ Incluímos articulos, documentación de la fundación modzilla, así como materi
 
 **Libros**
 
-* 📚&nbsp;[**Eric Meyer - Values, Units, and Colors**](http://shop.oreilly.com/product/0636920027621.do)&nbsp;Libro de [Eric Meyer](https://meyerweb.com/) sobre el uso de unidades y valores.
+* 📚&nbsp;[**Javascript Avanzado en español  | Traducción de la MDN de modzilla l**]((libros/javascript-avanzado-en-espanol.pdf)&nbsp;
 
 **Artículos** 
 
-* 📄&nbsp;[**Javascript Avanzado en español  | Traducción de la MDN de modzilla l**](libros/javascript-avanzado-en-espanol.pdf)&nbsp;⚠️Explicación detallada sobre el uso de funciones (traducir si se complica su lectura).
+* 📄&nbsp;[**JavaScript Functions — Understanding The Basics**](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)&nbsp;⚠️Explicación detallada sobre el uso de funciones (traducir si se complica su lectura).
 
 **Videos**
 
