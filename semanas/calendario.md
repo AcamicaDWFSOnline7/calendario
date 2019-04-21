@@ -27,7 +27,7 @@ Y si ya practicaste con las actividades de la plataforma y querés seguir ponié
 * [**Semana 3**](semana-02.md) 📆 
 
 ### Proyecto 2 - Homebanking
-* [**Semana 2**](semana-05.md) 📆 
+* [**Semana 4**](semana-04.md) 📆 
 
 
 [Home](/readme.md) - [Proyectos y Ejercicios](/proyectos-y-ejercicios.md)
