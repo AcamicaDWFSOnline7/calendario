@@ -15,11 +15,11 @@
 
 A los temas propuestos por la plataforma y los vistos en clase, agregamos algunos contenidos complementarios **Funciones y condiciionales**, algunso articulos están en inglés, pero proveen muy buena info. De hacerse muy dificil la lectura, traduzcan la página con el navegador.
 
-Incluímos recomendaciones oficiales de las **recomendaciones de la W3C** así como material en general que creemos puede serles de utilidad.
+Incluímos articulos, documentación de la fundación modzilla, así como material en general que creemos puede serles de utilidad.
 
 **Documentación técnica**
 
-* 📄&nbsp;[**W3C Standards | Functions**](https://www.w3.org/TR/css-values/)&nbsp;Candidate Recommendation de W3C sobre unidades y valores.
+* 📄&nbsp;[**W3C Standards | Functions**](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Funciones)&nbsp;Candidate Recommendation de W3C sobre unidades y valores.
 * 📄&nbsp;[**W3C Standards | Distance Units: the `<length>` type**](https://www.w3.org/TR/css-values/#lengths)&nbsp;⚠️Párrafo sobre unidades de medida de distancia.
 * 📄&nbsp;[**MDN | CSS - `<length>` (unidades de distancia)**](https://developer.mozilla.org/es/docs/Web/CSS/length)⚠️&nbsp;Documentación en español de Mozilla MDN.
 
